@@ -1,5 +1,5 @@
 del C:\Python33\Lib\Constants.py
-del C:\Python33\Lib\cs0.py
+del C:\Python33\Lib\StartPy.py
 del C:\Python33\Lib\Engine.py
 del C:\Python33\Lib\Events.py
 del C:\Python33\Lib\Globals.py
